@@ -349,13 +349,15 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1296336672}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d8809a4e96a82d74cafa78199a2cc411, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   WaveVector: 0
   wavespeed: 
+  basic: 0
+  gap: 0
 --- !u!114 &1296336675
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -363,7 +365,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1296336672}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 336825d3b496c8a4fa2669a013964166, type: 3}
   m_Name: 
